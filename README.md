@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+So...for realz, B, this is just a test sandboxery app.  go ahead and screw around with 
+all the things.  just be polite and put it back together again, if you plan on merging
+to master.

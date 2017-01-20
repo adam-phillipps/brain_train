@@ -14,7 +14,8 @@ class UsersController < ApplicationController
 
   # GET /users/new
   def new
-    @user = User.new
+    @role ||= 'Student'
+    @user = User.new role: @role
   end
 
   # GET /users/1/edit
